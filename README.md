@@ -53,12 +53,14 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test and Load Test:
 
-![WhatsApp Image 2025-09-17 at 23 48 35_84242f43](https://github.com/user-attachments/assets/18562ae3-63dd-4088-9667-5beffbdd5b9c)
-![WhatsApp Image 2025-09-17 at 23 48 36_85f583b9](https://github.com/user-attachments/assets/05f8ba55-3df9-4d37-bf61-11c02dd221ef)
-![WhatsApp Image 2025-09-17 at 23 48 36_0d91c36d](https://github.com/user-attachments/assets/f56f6391-0b13-4366-9d8e-eb33790eea82)
-![WhatsApp Image 2025-09-17 at 23 48 36_df0a6119](https://github.com/user-attachments/assets/5fa97588-19be-4fbe-b6ab-eb4b079b5f40)
-![WhatsApp Image 2025-09-17 at 23 48 37_148121b3](https://github.com/user-attachments/assets/eba037d3-6b58-4811-864a-314cd4e2e438)
-![WhatsApp Image 2025-09-17 at 23 48 37_54cabbf5](https://github.com/user-attachments/assets/ba2b80b6-8930-4068-b6fe-764d318658c9)
+![1](https://github.com/user-attachments/assets/f75c3e9d-9e90-4cc1-b1a1-6573c0619298)
+![2](https://github.com/user-attachments/assets/c4cc47b3-f46a-4376-9347-bb64c569d1f0)
+![3](https://github.com/user-attachments/assets/93a49028-8b94-489f-ab7f-7df29329cda3)
+![4](https://github.com/user-attachments/assets/dfbc2ff3-d713-4968-a8ab-b48ea7030cec)
+![5](https://github.com/user-attachments/assets/87883b83-1e45-4ba6-a81c-b3b539a811c4)
+![6](https://github.com/user-attachments/assets/606f3f91-9b0b-4334-9044-c4a32a1ffbf1)
+
+
 <img width="1075" height="624" alt="1" src="https://github.com/user-attachments/assets/7a48cb14-e41e-4fdb-ba7d-dc7de5cc34a8" />
 <img width="1067" height="313" alt="beee 2" src="https://github.com/user-attachments/assets/b4be5767-ab7d-42bc-8777-f7f19c5f1e08" />
 <img width="1370" height="626" alt="beee 1" src="https://github.com/user-attachments/assets/2ca8b133-0ad9-41f8-bcdf-f8729b44c1d0" />
